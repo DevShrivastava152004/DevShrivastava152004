@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevShrivastava152004](https://github.com/DevShrivastava152004)
 
-- 💬 Ask me about **Javascript,C++**
+- 💬 Ask me about **Javascript,C++,Python**
 
 - 📫 How to reach me **devshrivastava621@gmail.com**
 
