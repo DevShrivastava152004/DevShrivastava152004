@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Shrivastava</h1>
 <h3 align="center">A passionate self-taught developer exploring AI, full-stack web development, and building practical tech that solves real-world problems.</h3>
 
-- 🔭 I’m currently working on **AI-INTERVIEW-ASSISTANT project**
+- 🔭 I’m currently working on **𝐒𝐞𝐡𝐚𝐭-𝐒𝐚𝐭𝐡𝐢 project**
 
 - 🌱 I’m currently learning **DSA and javascript**
 
