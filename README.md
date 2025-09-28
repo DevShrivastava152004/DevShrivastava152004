@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **𝐒𝐞𝐡𝐚𝐭-𝐒𝐚𝐭𝐡𝐢 project**
 
-- 🌱 I’m currently learning **DSA and javascript**
+- 🌱 I’m currently learning **DSA and React Js**
 
 - 👯 I’m looking to collaborate on **AI-powered web tools**
 
