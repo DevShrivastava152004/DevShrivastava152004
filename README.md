@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dev Shrivastava</h1>
-<h3 align="center">A passionate self-taught developer exploring AI, full-stack web development, and building practical tech that solves real-world problems.</h3>
+<h3 align="center">A developer focused on Machine Learning, building practical projects and strengthening core problem-solving skills.</h3>
 
-- 🔭 I’m currently working on **𝐒𝐞𝐡𝐚𝐭-𝐒𝐚𝐭𝐡𝐢 project**
+- 🔭 I’m currently working on **Machine-Learning projects**
 
-- 🌱 I’m currently learning **DSA and React Js**
+- 🌱 I’m currently learning **DSA and Machine-Learning**
 
-- 👯 I’m looking to collaborate on **AI-powered web tools**
+- 👯 I’m looking to collaborate on **Machine Learnin Projects**
 
 - 🤝 I’m looking for help with **Improving code quality and performance in real world projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevShrivastava152004](https://github.com/DevShrivastava152004)
 
-- 💬 Ask me about **Javascript,C++,Python**
+- 💬 Ask me about **Javascript,Java,C++,Python**
 
 - 📫 How to reach me **devshrivastava621@gmail.com**
 
