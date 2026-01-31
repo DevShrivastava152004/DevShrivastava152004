@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA and Machine-Learning**
 
-- 👯 I’m looking to collaborate on **Machine Learnin Projects**
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - 🤝 I’m looking for help with **Improving code quality and performance in real world projects**
 
