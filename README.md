@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevShrivastava152004](https://github.com/DevShrivastava152004)
 
-- 💬 Ask me about **Javascript,Java,C++,Python**
+- 💬 Ask me about Machine Learning, Python, and Data Structures & Algorithms in Java.**
 
 - 📫 How to reach me **devshrivastava621@gmail.com**
 
